@@ -2,7 +2,7 @@
 
 #### Function that exchanges a base64 formatted string for a boolean array.
 
-[![NPM](https://img.shields.io/npm/v/name____.svg)](https://www.npmjs.com/package/name____) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/base64-to-boolean-array.svg)](https://www.npmjs.com/package/base64-to-boolean-array) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
